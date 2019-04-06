@@ -44,4 +44,4 @@ QUERY
   Command syntax: EXIT
   
   ## Time spent
-  1.5 hours, a lot of time was spent on commenting, testing, and documentation.
+  1.5 hours, most of which was spent on commenting, testing, and documentation.
