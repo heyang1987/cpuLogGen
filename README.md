@@ -32,7 +32,7 @@ To use the query tool, type following command within the project folder in the t
 
 ./query /path/to/GeneratedLogfile
 
-The tool will first clean up the potential residual documents stored in the MongoDB database from previous experiment. Then it will generate a bulk query from the source log file and finally insert this query into the MongoDB database. By doing this, 
+The tool will first clean up the potential residual documents stored in the MongoDB database from previous experiment. Then it will generate a bulk query from the source log file and rapidly insert this query into the MongoDB database.
 After above initialization, the query tool will wait for users' query input to return results.
 There are two types of commands that are currently supported: QUERY  and EXIT
 
